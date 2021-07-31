@@ -1,3 +1,3 @@
 ### Contact
-LinkedIn - [@justin-kussow](https://www.linkedin.com/in/justin-kussow/)<br />
-Email - [jdkussow@gmail.com](mailto:jdkussow@gmail.com)
+LinkedIn - <a href="https://www.linkedin.com/in/justin-kussow/" target="_blank">@justin-kussow</a><br />
+Email - <a href="mailto:jdkussow@gmail.com" target="_blank">jdkussow@gmail.com</a>
